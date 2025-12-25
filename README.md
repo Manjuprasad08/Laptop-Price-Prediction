@@ -34,6 +34,7 @@ The dataset contains information about laptops such as:
 ## Machine Learning Models Used
 - Linear Regression
 - Random Forest
+- Gradient Boosting
 
 ## Key Insights
 - Laptop specifications like RAM, processor, and storage strongly influence price
